@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Rubén, I'm from Spain and I'm an Full Stack developer.
+My name is Rubén, I'm from Spain and I'm an Freelance Full Stack Developer.
 
 * Currently working for freelance Sotware developer
 * I have a [Google Play channel](https://play.google.com/store/apps/developer?id=Lancho) with Ionic.
