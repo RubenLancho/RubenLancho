@@ -1,11 +1,10 @@
-### Hi there 👋
+Hey! I'm **<a href="https://x.com/rubenlancho" target="_blank">@rubenlancho</a> (Rubén Lancho)**. 👋
 
-My name is Rubén, I'm from Spain and I'm a Full Stack Developer.
+I'm a software developer from Spain. 🇪🇸
 
-* Currently working for Sotware developer
+I created **<a href="https://memberish.io" target="_blank">Memberish.io</a>**, **<a href="https://marketplace.visualstudio.com/items?itemName=RubenLancho.vscode-i18n-helper" target="_blank">vscode-i18n-helper</a>**. 🚀
 
 ## Skills
-
 
 * Angular
 * Python
@@ -13,3 +12,11 @@ My name is Rubén, I'm from Spain and I'm a Full Stack Developer.
 * Ionic
 * Docker
 
+
+You can find me on:
+
+* [Twitter as @RubenLancho](https://x.com/rubenlancho)
+* [GitHub as @RubenLancho (you are here)](https://github.com/rubenlancho)
+* [LinkedIn](http://linkedin.com/in/rubenlancho/)
+* [Dev.to](https://dev.to/rubenlancho)
+* [Medium](https://medium.com/@rubenlancho)
