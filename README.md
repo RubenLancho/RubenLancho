@@ -2,15 +2,7 @@ Hey! I'm **<a href="https://x.com/rubenlancho" target="_blank">@rubenlancho</a> 
 
 I'm a software developer from Spain. 🇪🇸
 
-I created **<a href="https://memberish.io">Memberish.io</a>**, **<a href="https://marketplace.visualstudio.com/items?itemName=RubenLancho.vscode-i18n-helper" target="_blank">vscode-i18n-helper</a>**. 🚀
-
-## Skills
-
-* Angular
-* Python
-* .Net
-* Ionic
-* Docker
+I created **[Memberish.io](https://memberish.io)**, **[vscode-i18n-helper](https://marketplace.visualstudio.com/items?itemName=RubenLancho.vscode-i18n-helper))**. 🚀
 
 
 You can find me on:
