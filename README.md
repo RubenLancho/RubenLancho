@@ -2,7 +2,7 @@ Hey! I'm **<a href="https://x.com/rubenlancho" target="_blank">@rubenlancho</a> 
 
 I'm a software developer from Spain. 🇪🇸
 
-I created **<a href="https://memberish.io" target="_blank">Memberish.io</a>**, **<a href="https://marketplace.visualstudio.com/items?itemName=RubenLancho.vscode-i18n-helper" target="_blank">vscode-i18n-helper</a>**. 🚀
+I created **<a href="https://memberish.io" target="_blank">Memberish</a>**, **<a href="https://marketplace.visualstudio.com/items?itemName=RubenLancho.vscode-i18n-helper" target="_blank">vscode-i18n-helper</a>**. 🚀
 
 ## Skills
 
